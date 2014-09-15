@@ -2,14 +2,14 @@
 /**
  * Class: user
  *
- * Handles all the user related functions and conversions to<>from Bungie platform
+ * Handles all the user related functions and conversions to/from Bungie platform
  * @author Johnathan Tiong <johnathan.tiong@gmail.com>
  * @version  v1.0.20140912
  * @since  v1.0.20140906
  */
 class user {
   /**
-   * creates a user with the $data provided
+   * creates a user with the $data provided in local DB
    *
    * @param  array  $data [description]
    * @return [type]       [description]
@@ -51,6 +51,8 @@ class user {
 
   /**
    * returns a platform code number based on the platform string a player is on
+   * based on codes in Bungie API. 1 = XBox Live, 2 = Playstation Network
+   *
    * @param  string $platform the shortcode of the console the player is on
    * @return int              the short int code of the platform 1 = xbl, 2 = psn
    */
@@ -71,7 +73,9 @@ class user {
   }
 
   /**
-   * returns the unique user id (UUID) of a player in bungie's platform
+   * returns the unique user id (UUID) of a player in bungie's platform - the membershipID is
+   * used to track all the guardian characters that belong to one person
+   *
    * @param  [type] $name     [description]
    * @param  [type] $platform [description]
    * @return [type]           [description]
@@ -85,6 +89,7 @@ class user {
 
   /**
    * returns an array of account details (and characters tied to the account)
+   *
    * @param int $id the $id number (from getMembershipID) of the account we're looking at
    * @param string $platform the platform shortcode of the account's player
    * @return array $bArray an array of account details
@@ -96,6 +101,12 @@ class user {
     return $bArray;
   }
 
+  /**
+   * Validates a user login attempt and sets session data to the oceanicdestiny.com site
+   *
+   * @param  array  $data [description]
+   * @return [type]       [description]
+   */
   function validate($data = array()) {
     // require password hashing library
     require_once(ROOT.'/lib/passwordHash.php');

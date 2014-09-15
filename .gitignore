@@ -217,7 +217,6 @@ pip-log.txt
 #############
 # jtiong.com
 #############
-vendor/
 app/settings.php
 .sftp-config.json
 sftp-config.json
@@ -225,4 +224,3 @@ sftp-config.json
 config.php
 docs/
 uploads/
-dev/
