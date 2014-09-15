@@ -8,6 +8,11 @@ Johnathan Tiong &copy; 2014
 
 # Changelog
 
+## v1.0.2014.09.15
+* sample returned array for some characters in results.txt
+* research/ lists a whole lot of Destiny & Bungie endpoints
+
+
 ## v1.0.2014.09.04
 * created the project, cloned [baseline](https://github.com/jaytee101/baseline)
 * created bitbucket repo
