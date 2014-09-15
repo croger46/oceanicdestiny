@@ -1,0 +1,2091 @@
+
+
+
+= CHROMATOS = 
+Array
+(
+    [Response] => Array
+        (
+            [data] => Array
+                (
+                    [membershipId] => 4611686018433106159
+                    [membershipType] => 2
+                    [characters] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [characterBase] => Array
+                                        (
+                                            [membershipId] => 4611686018433106159
+                                            [membershipType] => 2
+                                            [characterId] => 2305843009214855639
+                                            [dateLastPlayed] => 2014-09-10T15:30:45Z
+                                            [minutesPlayedThisSession] => 423
+                                            [minutesPlayedTotal] => 987
+                                            [powerLevel] => 1
+                                            [raceHash] => 898834093
+                                            [genderHash] => 3111576190
+                                            [classHash] => 3655393761
+                                            [currentActivityHash] => 0
+                                            [lastCompletedStoryHash] => 0
+                                            [stats] => Array
+                                                (
+                                                    [STAT_DEFENSE] => Array
+                                                        (
+                                                            [statHash] => 3897883278
+                                                            [value] => 405
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_INTELLECT] => Array
+                                                        (
+                                                            [statHash] => 144602215
+                                                            [value] => 0
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_DISCIPLINE] => Array
+                                                        (
+                                                            [statHash] => 1735777505
+                                                            [value] => 192
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_STRENGTH] => Array
+                                                        (
+                                                            [statHash] => 4244567218
+                                                            [value] => 39
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_ARMOR] => Array
+                                                        (
+                                                            [statHash] => 392767087
+                                                            [value] => 8
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_AGILITY] => Array
+                                                        (
+                                                            [statHash] => 2996146975
+                                                            [value] => 4
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_RECOVERY] => Array
+                                                        (
+                                                            [statHash] => 1943323491
+                                                            [value] => 6
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_OPTICS] => Array
+                                                        (
+                                                            [statHash] => 3555269338
+                                                            [value] => 53
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                )
+
+                                            [customization] => Array
+                                                (
+                                                    [personality] => 2166136261
+                                                    [face] => 4017475050
+                                                    [skinColor] => 743423460
+                                                    [lipColor] => 156633752
+                                                    [eyeColor] => 4187018149
+                                                    [hairColor] => 2501001679
+                                                    [featureColor] => 2166136261
+                                                    [decalColor] => 2194048905
+                                                    [wearHelmet] => 
+                                                    [hairIndex] => 10
+                                                    [featureIndex] => 0
+                                                    [decalIndex] => 4
+                                                )
+
+                                            [grimoireScore] => 630
+                                            [peerView] => Array
+                                                (
+                                                    [equipment] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [itemHash] => 2455559914
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [itemHash] => 2266655381
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3655183667
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 1686630710
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 1095509875
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [2] => Array
+                                                                (
+                                                                    [itemHash] => 1614480978
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3974009276
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 349397393
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 2811990642
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [3] => Array
+                                                                (
+                                                                    [itemHash] => 2424290515
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3607160737
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 1013262264
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 2838322925
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [4] => Array
+                                                                (
+                                                                    [itemHash] => 693283818
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 1033347492
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 2399474153
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 3391034682
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [5] => Array
+                                                                (
+                                                                    [itemHash] => 1599594922
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [6] => Array
+                                                                (
+                                                                    [itemHash] => 2163453169
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 1406858869
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 3652843950
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [7] => Array
+                                                                (
+                                                                    [itemHash] => 2900778143
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 1523058015
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 1362332712
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [8] => Array
+                                                                (
+                                                                    [itemHash] => 2764161076
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 369803944
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 530529247
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [9] => Array
+                                                                (
+                                                                    [itemHash] => 1614459137
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 2025709351
+                                                                                    [dyeHash] => 124877293
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [10] => Array
+                                                                (
+                                                                    [itemHash] => 2751204699
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 4023194814
+                                                                                    [dyeHash] => 1177926279
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [11] => Array
+                                                                (
+                                                                    [itemHash] => 1426631719
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [12] => Array
+                                                                (
+                                                                    [itemHash] => 4248210736
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [genderType] => 0
+                                        )
+
+                                    [levelProgression] => Array
+                                        (
+                                            [dailyProgress] => 144480
+                                            [weeklyProgress] => 144480
+                                            [currentProgress] => 152555
+                                            [level] => 16
+                                            [step] => 0
+                                            [progressToNextLevel] => 3055
+                                            [nextLevelAt] => 15000
+                                            [progressionHash] => 1716568313
+                                        )
+
+                                    [emblemPath] => /common/destiny_content/icons/iconb9093902643db60d93a77e51512c8327.jpg
+                                    [backgroundPath] => /common/destiny_content/icons/icon3bf0f841a240dccdb9a834a1207a8df1.jpg
+                                    [emblemHash] => 1426631719
+                                    [characterLevel] => 16
+                                    [baseCharacterLevel] => 16
+                                    [isPrestigeLevel] => 
+                                    [percentToNextLevel] => 20.3666668
+                                )
+
+                            [1] => Array
+                                (
+                                    [characterBase] => Array
+                                        (
+                                            [membershipId] => 4611686018433106159
+                                            [membershipType] => 2
+                                            [characterId] => 2305843009214856530
+                                            [dateLastPlayed] => 2014-09-10T08:26:20Z
+                                            [minutesPlayedThisSession] => 4
+                                            [minutesPlayedTotal] => 76
+                                            [powerLevel] => 1
+                                            [raceHash] => 3887404748
+                                            [genderHash] => 3111576190
+                                            [classHash] => 2271682572
+                                            [currentActivityHash] => 0
+                                            [lastCompletedStoryHash] => 0
+                                            [stats] => Array
+                                                (
+                                                    [STAT_DEFENSE] => Array
+                                                        (
+                                                            [statHash] => 3897883278
+                                                            [value] => 77
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_INTELLECT] => Array
+                                                        (
+                                                            [statHash] => 144602215
+                                                            [value] => 0
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_DISCIPLINE] => Array
+                                                        (
+                                                            [statHash] => 1735777505
+                                                            [value] => 0
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_STRENGTH] => Array
+                                                        (
+                                                            [statHash] => 4244567218
+                                                            [value] => 0
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_ARMOR] => Array
+                                                        (
+                                                            [statHash] => 392767087
+                                                            [value] => 1
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_AGILITY] => Array
+                                                        (
+                                                            [statHash] => 2996146975
+                                                            [value] => 1
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_RECOVERY] => Array
+                                                        (
+                                                            [statHash] => 1943323491
+                                                            [value] => 5
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_OPTICS] => Array
+                                                        (
+                                                            [statHash] => 3555269338
+                                                            [value] => 30
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                )
+
+                                            [customization] => Array
+                                                (
+                                                    [personality] => 2166136261
+                                                    [face] => 2680554480
+                                                    [skinColor] => 683440564
+                                                    [lipColor] => 3571537815
+                                                    [eyeColor] => 1194006499
+                                                    [hairColor] => 280639505
+                                                    [featureColor] => 2166136261
+                                                    [decalColor] => 2296199682
+                                                    [wearHelmet] => 
+                                                    [hairIndex] => 13
+                                                    [featureIndex] => 0
+                                                    [decalIndex] => 3
+                                                )
+
+                                            [grimoireScore] => 630
+                                            [peerView] => Array
+                                                (
+                                                    [equipment] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [itemHash] => 3828867689
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [itemHash] => 74042165
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3982172243
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 3610950486
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 265077779
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [2] => Array
+                                                                (
+                                                                    [itemHash] => 1852634773
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 2757056819
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 788503862
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 1903250291
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [3] => Array
+                                                                (
+                                                                    [itemHash] => 4068236668
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3136666190
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 2261857959
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 3321780264
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [4] => Array
+                                                                (
+                                                                    [itemHash] => 256073903
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 1951064205
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 957387404
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 899322769
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [5] => Array
+                                                                (
+                                                                    [itemHash] => 322876326
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 1104312160
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 591962173
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 2517100254
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [6] => Array
+                                                                (
+                                                                    [itemHash] => 727840013
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 1225657515
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 1989251396
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [7] => Array
+                                                                (
+                                                                    [itemHash] => 797518015
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 784589788
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 2929568227
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [8] => Array
+                                                                (
+                                                                    [itemHash] => 1614459137
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 2025709351
+                                                                                    [dyeHash] => 124877293
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [9] => Array
+                                                                (
+                                                                    [itemHash] => 2751204699
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 4023194814
+                                                                                    [dyeHash] => 1177926279
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [10] => Array
+                                                                (
+                                                                    [itemHash] => 776529032
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [11] => Array
+                                                                (
+                                                                    [itemHash] => 4248210736
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [genderType] => 0
+                                        )
+
+                                    [levelProgression] => Array
+                                        (
+                                            [dailyProgress] => 7665
+                                            [weeklyProgress] => 7665
+                                            [currentProgress] => 8875
+                                            [level] => 3
+                                            [step] => 0
+                                            [progressToNextLevel] => 3875
+                                            [nextLevelAt] => 5000
+                                            [progressionHash] => 1716568313
+                                        )
+
+                                    [emblemPath] => /common/destiny_content/icons/icon4998b0f9e2a77cac03ebfac591150f86.jpg
+                                    [backgroundPath] => /common/destiny_content/icons/icon499b1dd0fbdcf4242f44935ed88b7c96.jpg
+                                    [emblemHash] => 776529032
+                                    [characterLevel] => 3
+                                    [baseCharacterLevel] => 3
+                                    [isPrestigeLevel] => 
+                                    [percentToNextLevel] => 77.5
+                                )
+
+                            [2] => Array
+                                (
+                                    [characterBase] => Array
+                                        (
+                                            [membershipId] => 4611686018433106159
+                                            [membershipType] => 2
+                                            [characterId] => 2305843009214860616
+                                            [dateLastPlayed] => 2014-09-09T09:40:54Z
+                                            [minutesPlayedThisSession] => 10
+                                            [minutesPlayedTotal] => 20
+                                            [powerLevel] => 1
+                                            [raceHash] => 898834093
+                                            [genderHash] => 3111576190
+                                            [classHash] => 671679327
+                                            [currentActivityHash] => 0
+                                            [lastCompletedStoryHash] => 0
+                                            [stats] => Array
+                                                (
+                                                    [STAT_DEFENSE] => Array
+                                                        (
+                                                            [statHash] => 3897883278
+                                                            [value] => 64
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_INTELLECT] => Array
+                                                        (
+                                                            [statHash] => 144602215
+                                                            [value] => 0
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_DISCIPLINE] => Array
+                                                        (
+                                                            [statHash] => 1735777505
+                                                            [value] => 0
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_STRENGTH] => Array
+                                                        (
+                                                            [statHash] => 4244567218
+                                                            [value] => 0
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_ARMOR] => Array
+                                                        (
+                                                            [statHash] => 392767087
+                                                            [value] => 1
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_AGILITY] => Array
+                                                        (
+                                                            [statHash] => 2996146975
+                                                            [value] => 5
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_RECOVERY] => Array
+                                                        (
+                                                            [statHash] => 1943323491
+                                                            [value] => 1
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_OPTICS] => Array
+                                                        (
+                                                            [statHash] => 3555269338
+                                                            [value] => 57
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                )
+
+                                            [customization] => Array
+                                                (
+                                                    [personality] => 2166136261
+                                                    [face] => 4017475048
+                                                    [skinColor] => 743423460
+                                                    [lipColor] => 156633759
+                                                    [eyeColor] => 4187018146
+                                                    [hairColor] => 1992135330
+                                                    [featureColor] => 2166136261
+                                                    [decalColor] => 2194048905
+                                                    [wearHelmet] => 
+                                                    [hairIndex] => 11
+                                                    [featureIndex] => 0
+                                                    [decalIndex] => 1
+                                                )
+
+                                            [grimoireScore] => 630
+                                            [peerView] => Array
+                                                (
+                                                    [equipment] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [itemHash] => 1716862031
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [itemHash] => 1302458343
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 1076989301
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 3138686532
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 2171643673
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [2] => Array
+                                                                (
+                                                                    [itemHash] => 3544127854
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 2354191448
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 910699685
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 3881423766
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [3] => Array
+                                                                (
+                                                                    [itemHash] => 3459525417
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3138809543
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 3777716834
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 2812766463
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [4] => Array
+                                                                (
+                                                                    [itemHash] => 1332238696
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 1875281226
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 1778301771
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 3843836316
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [5] => Array
+                                                                (
+                                                                    [itemHash] => 3790886867
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 1028524705
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 2729593528
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 1798148077
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [6] => Array
+                                                                (
+                                                                    [itemHash] => 3141342998
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 3113697440
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 3905056823
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [7] => Array
+                                                                (
+                                                                    [itemHash] => 1037965300
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 1199676520
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 193613471
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [8] => Array
+                                                                (
+                                                                    [itemHash] => 1614459137
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 2025709351
+                                                                                    [dyeHash] => 124877293
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [9] => Array
+                                                                (
+                                                                    [itemHash] => 2751204699
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 4023194814
+                                                                                    [dyeHash] => 1177926279
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [10] => Array
+                                                                (
+                                                                    [itemHash] => 855333071
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [11] => Array
+                                                                (
+                                                                    [itemHash] => 4248210736
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [genderType] => 0
+                                        )
+
+                                    [levelProgression] => Array
+                                        (
+                                            [dailyProgress] => 1135
+                                            [weeklyProgress] => 1135
+                                            [currentProgress] => 2035
+                                            [level] => 2
+                                            [step] => 0
+                                            [progressToNextLevel] => 1135
+                                            [nextLevelAt] => 4100
+                                            [progressionHash] => 1716568313
+                                        )
+
+                                    [emblemPath] => /common/destiny_content/icons/iconfdb34db9472dc5e062c724ae39a3042b.jpg
+                                    [backgroundPath] => /common/destiny_content/icons/iconf6fc78ffba92c1d9cdfc1aa1029edf9a.jpg
+                                    [emblemHash] => 855333071
+                                    [characterLevel] => 2
+                                    [baseCharacterLevel] => 2
+                                    [isPrestigeLevel] => 
+                                    [percentToNextLevel] => 27.6829262
+                                )
+
+                        )
+
+                    [inventory] => Array
+                        (
+                            [buckets] => Array
+                                (
+                                    [Invisible] => Array
+                                        (
+                                        )
+
+                                    [Item] => Array
+                                        (
+                                        )
+
+                                    [Currency] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [currencies] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [itemHash] => 3159615086
+                                            [value] => 2500
+                                        )
+
+                                )
+
+                        )
+
+                    [grimoireScore] => 630
+                )
+
+        )
+
+    [ErrorCode] => 1
+    [ThrottleSeconds] => 0
+    [ErrorStatus] => Success
+    [Message] => Ok
+    [MessageData] => Array
+        (
+        )
+
+)
+
+
+
+= FISH_IN_A_WIG = 
+Array
+(
+    [Response] => Array
+        (
+            [data] => Array
+                (
+                    [membershipId] => 4611686018428752359
+                    [membershipType] => 2
+                    [characters] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [characterBase] => Array
+                                        (
+                                            [membershipId] => 4611686018428752359
+                                            [membershipType] => 2
+                                            [characterId] => 2305843009215084142
+                                            [dateLastPlayed] => 2014-09-11T07:55:15Z
+                                            [minutesPlayedThisSession] => 560
+                                            [minutesPlayedTotal] => 2696
+                                            [powerLevel] => 22
+                                            [raceHash] => 3887404748
+                                            [genderHash] => 3111576190
+                                            [classHash] => 2271682572
+                                            [currentActivityHash] => 227551630
+                                            [lastCompletedStoryHash] => 0
+                                            [stats] => Array
+                                                (
+                                                    [STAT_DEFENSE] => Array
+                                                        (
+                                                            [statHash] => 3897883278
+                                                            [value] => 766
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_INTELLECT] => Array
+                                                        (
+                                                            [statHash] => 144602215
+                                                            [value] => 49
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_DISCIPLINE] => Array
+                                                        (
+                                                            [statHash] => 1735777505
+                                                            [value] => 147
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_STRENGTH] => Array
+                                                        (
+                                                            [statHash] => 4244567218
+                                                            [value] => 142
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_LIGHT] => Array
+                                                        (
+                                                            [statHash] => 2391494160
+                                                            [value] => 42
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_ARMOR] => Array
+                                                        (
+                                                            [statHash] => 392767087
+                                                            [value] => 4
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_AGILITY] => Array
+                                                        (
+                                                            [statHash] => 2996146975
+                                                            [value] => 4
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_RECOVERY] => Array
+                                                        (
+                                                            [statHash] => 1943323491
+                                                            [value] => 9
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_OPTICS] => Array
+                                                        (
+                                                            [statHash] => 3555269338
+                                                            [value] => 82
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                )
+
+                                            [customization] => Array
+                                                (
+                                                    [personality] => 2166136261
+                                                    [face] => 2680554482
+                                                    [skinColor] => 683440564
+                                                    [lipColor] => 3571537815
+                                                    [eyeColor] => 1194006498
+                                                    [hairColor] => 2616731314
+                                                    [featureColor] => 2166136261
+                                                    [decalColor] => 1213241010
+                                                    [wearHelmet] => 
+                                                    [hairIndex] => 7
+                                                    [featureIndex] => 0
+                                                    [decalIndex] => 8
+                                                )
+
+                                            [grimoireScore] => 1345
+                                            [peerView] => Array
+                                                (
+                                                    [equipment] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [itemHash] => 3828867689
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [itemHash] => 868458823
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3136630995
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 2456587422
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 516697381
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [2] => Array
+                                                                (
+                                                                    [itemHash] => 815653401
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3136630995
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 2456587422
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 516697381
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [3] => Array
+                                                                (
+                                                                    [itemHash] => 2433401250
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3136630995
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 2456587422
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 516697381
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [4] => Array
+                                                                (
+                                                                    [itemHash] => 962675601
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3136630995
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 2456587422
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 516697381
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [5] => Array
+                                                                (
+                                                                    [itemHash] => 1715208090
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 1646605396
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 1895512313
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 866060970
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [6] => Array
+                                                                (
+                                                                    [itemHash] => 261727865
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 4071759165
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 4225083030
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [7] => Array
+                                                                (
+                                                                    [itemHash] => 2414978083
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 4264688355
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 2119709916
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [8] => Array
+                                                                (
+                                                                    [itemHash] => 2101552008
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 995119132
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 1969604643
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [9] => Array
+                                                                (
+                                                                    [itemHash] => 526316385
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 284967655
+                                                                                    [dyeHash] => 567954285
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 840921382
+                                                                                    [dyeHash] => 2243771572
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [10] => Array
+                                                                (
+                                                                    [itemHash] => 1644984124
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 2025709351
+                                                                                    [dyeHash] => 4044204094
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [11] => Array
+                                                                (
+                                                                    [itemHash] => 2751204699
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 4023194814
+                                                                                    [dyeHash] => 1177926279
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [12] => Array
+                                                                (
+                                                                    [itemHash] => 3357380906
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [13] => Array
+                                                                (
+                                                                    [itemHash] => 194424264
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3136630995
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 2456587422
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 516697381
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [genderType] => 0
+                                        )
+
+                                    [levelProgression] => Array
+                                        (
+                                            [dailyProgress] => 165775
+                                            [weeklyProgress] => 292360
+                                            [currentProgress] => 292360
+                                            [level] => 3
+                                            [step] => 0
+                                            [progressToNextLevel] => 52360
+                                            [nextLevelAt] => 80000
+                                            [progressionHash] => 2030054750
+                                        )
+
+                                    [emblemPath] => /common/destiny_content/icons/iconaa318dbb967999702eb33a371b10b0e0.jpg
+                                    [backgroundPath] => /common/destiny_content/icons/iconb366ca33172b895ede2c87c322ca0b29.jpg
+                                    [emblemHash] => 3357380906
+                                    [characterLevel] => 22
+                                    [baseCharacterLevel] => 20
+                                    [isPrestigeLevel] => 1
+                                    [percentToNextLevel] => 97.9999542
+                                )
+
+                        )
+
+                    [clanName] => AusG Squadron
+                    [clanTag] => AusG
+                    [inventory] => Array
+                        (
+                            [buckets] => Array
+                                (
+                                    [Invisible] => Array
+                                        (
+                                        )
+
+                                    [Item] => Array
+                                        (
+                                        )
+
+                                    [Currency] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [currencies] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [itemHash] => 3159615086
+                                            [value] => 750
+                                        )
+
+                                )
+
+                        )
+
+                    [grimoireScore] => 1345
+                )
+
+        )
+
+    [ErrorCode] => 1
+    [ThrottleSeconds] => 0
+    [ErrorStatus] => Success
+    [Message] => Ok
+    [MessageData] => Array
+        (
+        )
+
+)
+
+
+
+= JAYTWITCH = 
+Array
+(
+    [Response] => Array
+        (
+            [data] => Array
+                (
+                    [membershipId] => 4611686018433058403
+                    [membershipType] => 2
+                    [characters] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [characterBase] => Array
+                                        (
+                                            [membershipId] => 4611686018433058403
+                                            [membershipType] => 2
+                                            [characterId] => 2305843009215534555
+                                            [dateLastPlayed] => 2014-09-10T21:51:35Z
+                                            [minutesPlayedThisSession] => 0
+                                            [minutesPlayedTotal] => 898
+                                            [powerLevel] => 1
+                                            [raceHash] => 2803282938
+                                            [genderHash] => 2204441813
+                                            [classHash] => 2271682572
+                                            [currentActivityHash] => 0
+                                            [lastCompletedStoryHash] => 0
+                                            [stats] => Array
+                                                (
+                                                    [STAT_DEFENSE] => Array
+                                                        (
+                                                            [statHash] => 3897883278
+                                                            [value] => 333
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_INTELLECT] => Array
+                                                        (
+                                                            [statHash] => 144602215
+                                                            [value] => 73
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_DISCIPLINE] => Array
+                                                        (
+                                                            [statHash] => 1735777505
+                                                            [value] => 0
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_STRENGTH] => Array
+                                                        (
+                                                            [statHash] => 4244567218
+                                                            [value] => 0
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_ARMOR] => Array
+                                                        (
+                                                            [statHash] => 392767087
+                                                            [value] => 3
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_AGILITY] => Array
+                                                        (
+                                                            [statHash] => 2996146975
+                                                            [value] => 5
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_RECOVERY] => Array
+                                                        (
+                                                            [statHash] => 1943323491
+                                                            [value] => 9
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                    [STAT_OPTICS] => Array
+                                                        (
+                                                            [statHash] => 3555269338
+                                                            [value] => 77
+                                                            [maximumValue] => 0
+                                                        )
+
+                                                )
+
+                                            [customization] => Array
+                                                (
+                                                    [personality] => 2166136261
+                                                    [face] => 2695914754
+                                                    [skinColor] => 1815484270
+                                                    [lipColor] => 2844894633
+                                                    [eyeColor] => 1511637745
+                                                    [hairColor] => 2233235441
+                                                    [featureColor] => 2166136261
+                                                    [decalColor] => 1609827954
+                                                    [wearHelmet] => 
+                                                    [hairIndex] => 11
+                                                    [featureIndex] => 0
+                                                    [decalIndex] => 1
+                                                )
+
+                                            [grimoireScore] => 805
+                                            [peerView] => Array
+                                                (
+                                                    [equipment] => Array
+                                                        (
+                                                            [0] => Array
+                                                                (
+                                                                    [itemHash] => 3828867689
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [1] => Array
+                                                                (
+                                                                    [itemHash] => 2497457952
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 2556564082
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 1184209987
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 1724393252
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [2] => Array
+                                                                (
+                                                                    [itemHash] => 1836999177
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 3170965799
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 2230910786
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 3529537631
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [3] => Array
+                                                                (
+                                                                    [itemHash] => 3550220458
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 1177366116
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 3007473577
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 3264744954
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [4] => Array
+                                                                (
+                                                                    [itemHash] => 2887180063
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 773916029
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 3735567516
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 2006570177
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [5] => Array
+                                                                (
+                                                                    [itemHash] => 4186410522
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 662199250
+                                                                                    [dyeHash] => 2253987540
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1367384683
+                                                                                    [dyeHash] => 2502894457
+                                                                                )
+
+                                                                            [2] => Array
+                                                                                (
+                                                                                    [channelHash] => 218592586
+                                                                                    [dyeHash] => 1331168810
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [6] => Array
+                                                                (
+                                                                    [itemHash] => 3676456343
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 3830297591
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 4247406176
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [7] => Array
+                                                                (
+                                                                    [itemHash] => 4249631281
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 748959157
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 3460978670
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [8] => Array
+                                                                (
+                                                                    [itemHash] => 2101552009
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433279
+                                                                                    [dyeHash] => 1760565805
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 1667433278
+                                                                                    [dyeHash] => 3481792198
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [9] => Array
+                                                                (
+                                                                    [itemHash] => 1539265118
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 284967655
+                                                                                    [dyeHash] => 575680474
+                                                                                )
+
+                                                                            [1] => Array
+                                                                                (
+                                                                                    [channelHash] => 840921382
+                                                                                    [dyeHash] => 809145865
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [10] => Array
+                                                                (
+                                                                    [itemHash] => 1614459137
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 2025709351
+                                                                                    [dyeHash] => 124877293
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [11] => Array
+                                                                (
+                                                                    [itemHash] => 1040215532
+                                                                    [dyes] => Array
+                                                                        (
+                                                                            [0] => Array
+                                                                                (
+                                                                                    [channelHash] => 4023194814
+                                                                                    [dyeHash] => 1242556826
+                                                                                )
+
+                                                                        )
+
+                                                                )
+
+                                                            [12] => Array
+                                                                (
+                                                                    [itemHash] => 2211817412
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                            [13] => Array
+                                                                (
+                                                                    [itemHash] => 4248210736
+                                                                    [dyes] => Array
+                                                                        (
+                                                                        )
+
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                            [genderType] => 1
+                                        )
+
+                                    [levelProgression] => Array
+                                        (
+                                            [dailyProgress] => 34680
+                                            [weeklyProgress] => 74975
+                                            [currentProgress] => 146585
+                                            [level] => 15
+                                            [step] => 0
+                                            [progressToNextLevel] => 12085
+                                            [nextLevelAt] => 15000
+                                            [progressionHash] => 1716568313
+                                        )
+
+                                    [emblemPath] => /common/destiny_content/icons/icon1d8044668b606057253e893740dc652a.jpg
+                                    [backgroundPath] => /common/destiny_content/icons/icon15b7a3713b0dd97b0e1866f92ce4f540.jpg
+                                    [emblemHash] => 2211817412
+                                    [characterLevel] => 15
+                                    [baseCharacterLevel] => 15
+                                    [isPrestigeLevel] => 
+                                    [percentToNextLevel] => 80.5666656
+                                )
+
+                        )
+
+                    [clanName] => Oceanic Destiny
+                    [clanTag] => OCD
+                    [inventory] => Array
+                        (
+                            [buckets] => Array
+                                (
+                                    [Invisible] => Array
+                                        (
+                                        )
+
+                                    [Item] => Array
+                                        (
+                                        )
+
+                                    [Currency] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [currencies] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [itemHash] => 3159615086
+                                            [value] => 308
+                                        )
+
+                                )
+
+                        )
+
+                    [grimoireScore] => 805
+                )
+
+        )
+
+    [ErrorCode] => 1
+    [ThrottleSeconds] => 0
+    [ErrorStatus] => Success
+    [Message] => Ok
+    [MessageData] => Array
+        (
+        )
+
+)

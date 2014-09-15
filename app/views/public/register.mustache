@@ -1,0 +1,81 @@
+{{>head}}
+{{>menu}}
+
+{{! start of content }}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <h1>Create an OD account!</h1>
+      <hr />
+      <form class="form-horizontal" role="form" method="POST" action="/register">
+        <div class="form-group">
+          <label for="gamerid" class="col-md-3 control-label">Gamer Tag/PSN ID</label>
+          <div class="col-md-9">
+            <input type="text" class="form-control" id="gamerid" name="gamerid" placeholder="Gamer ID on XBL or PSN">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="gamerid" class="col-md-3 control-label">Platform</label>
+          <div class="col-md-9">
+            <select name="platform" class="form-control">
+              <option value="ps4">Playstation 4</option>
+              <option value="xbone">XBOX 360</option>
+              <option value="ps3">Playstation 3</option>
+              <option value="xb360">XBOX 360</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="email" class="col-md-3 control-label">Email Address</label>
+          <div class="col-md-9">
+            <input type="text" class="form-control" id="email" name="email" placeholder="Your email address">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="password" class="col-md-3 control-label">Password</label>
+          <div class="col-md-9">
+            <input type="password" class="form-control" id="password" name="password">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="confirmPassword" class="col-md-3 control-label">Confirm Password</label>
+          <div class="col-md-9">
+            <input type="password" class="form-control" id="confirmPassword" name="confirmPassword">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="antispam" class="col-md-3 control-label">Anti-Spambot</label>
+          <div class="col-md-9">
+            {{{recaptcha}}}
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="col-md-12" style="text-align: center; ">
+            <button class="btn btn-lg btn-success">Create Account</button>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <div class="col-md-6">
+      <h1>Why should I join?</h1>
+      <hr />
+      <p><strong>PLEASE USE YOUR <span class="text-primary">PSN ID</span> OR <span class="text-success">GAMER TAG</span> TO REGISTER</strong></p>
+      <p>
+        This ensures we fetch your correct guardian data from the Bungie platforms
+      </p>
+      <br />
+      <p><strong>Community rated players</strong></p>
+      <p>
+        We want our community to be filled with great players, and awesome people to socialise, grow and
+        progress through the game together! Our members can vote on how awesome the people they party with
+        are, meaning you'll be able to find cool people to play Destiny with, all the time!
+      </p>
+    </div>
+  </div>
+</div>
+
+{{! end of content }}
+
+{{>foot}}

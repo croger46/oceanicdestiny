@@ -1,0 +1,12 @@
+{
+  "require": {
+    "mustache/mustache": "v2.5.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.x"
+  },
+  "autoload": {
+    "files": ["core/RedBeanPHP/rb.phar","core/Baseline/baseline.php"],
+    "psr-4": { "lib\\": "lib" }
+  }
+}

@@ -1,0 +1,16 @@
+{{>head}}
+{{>menu}}
+
+
+    <div class="col-md-4">
+    <h2>News from Bungie</h2>
+    <hr />
+    {{#feed}}
+      <a href="{{link}}"><h4>{{title}}</h4></a>
+      <small class="text-muted">{{pubDate}}</small>
+      <p>
+        {{description}}
+      </p>
+      <hr />
+    {{/feed}}
+    </div>

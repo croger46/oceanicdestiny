@@ -1,0 +1,107 @@
+{{>head}}
+{{>menu}}
+
+{{! start of content }}
+
+<div class="container">
+  <div class="row">
+    <div class="jumbotron" style="margin-top: -60px; ">
+      <h1>Oceanic Destiny</h1>
+      <p>A platform independent Guardian index and LFG/LFM service for AU/NZ players of Destiny.</p>
+      <a class="btn btn-primary btn-lg" href="/about">Learn more</a>
+    </div>
+  </div>
+
+  {{! feedback messages }}
+  {{#message}}
+  <div class="row">
+    <div class="col-md-12">
+      <div class="alert alert-dismissable alert-{{messageStyle}}">
+        <button type="button" class="close" data-dismiss="alert">×</button>
+        <h4>{{messageTitle}}</h4>
+        <p>
+          {{{message}}}
+        </p>
+      </div>
+    </div>
+  </div>
+  {{/message}}
+  {{! end of feedback messages }}
+
+  <div class="row">
+
+    <div class="col-md-3">
+      <h2>New Guardians</h2>
+      <hr />
+
+      {{#guardians}}
+      <div class="row">
+        <div class="col-md-12">
+          <a href="https://www.bungie.net/en/Legend/{{membershipType}}/{{membershipId}}/{{characterId}}"><img src="{{emblem}}" style="width: 48px; margin: 0px 15px; float: left; "></a>
+          <h4 style="margin-top: 0px; ">{{owner}}</h4>
+          <b>Level {{level}}{{#bonus}} (+{{.}}){{/bonus}}, {{class}}</b>
+          <hr style="clear: both; " />
+        </div>
+      </div>
+      {{/guardians}}
+
+    </div>
+
+    <div class="col-md-9">
+      <h2>
+        Make an LFG/LFM Notice:<br>
+        <form class="form-inline">
+          <input type="text" class="form-control" id="gamerid" name="gamerid" placeholder="Gamer Name, or Gamer Tag" />
+          <select name="character" id="characters">
+          </select>
+        </form>
+      </h2>
+      <table class="table table-hover">
+        <tbody>
+        {{#LFGs}}
+          <tr>
+            <td style="width: 64px; ">{{{platform}}}</td>
+            <td>
+              <p class="lead" style="margin-bottom: 2px; ">{{gamerid}}: Level {{level}}, {{class}}</p>
+              <p><b>{{type}}</b>, {{activity}} ({{mode}})</p>
+            </td>
+            <td style="text-align: left; ">
+            {{#note}}
+              <small class="text-muted">
+                <i class="fa fa-fw fa-lg fa-comment" rel="tooltip" title="Additional Notes/Description"></i>
+                {{.}}
+              </small>
+            {{/note}}
+            </td>
+            <td style="width: 128px; ">{{created}}</td>
+          </tr>
+        {{/LFGs}}
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    console.log('we are ready');
+    $('#gamerid').change(function(evt) {
+      var jsFields = { 
+        "gamerid":$(evt.target).val()};
+        $.ajax({
+          url: "/api.php",
+          type: "GET",
+          data: jsFields,
+          success:function(req,status,jqXHR) {
+            console.log(req);
+            $('<option value="x">X</option>').appendTo('#characters');
+          }
+      });
+    });
+  })
+</script>
+
+{{! end of content }}
+
+{{>foot}}
